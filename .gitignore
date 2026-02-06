@@ -1,0 +1,5 @@
+jupyterlab-env/
+
+# Ignora i file di ambiente virtuale di JupyterLab
+jupyterlab-env/
+.ipynb_checkpoints/
